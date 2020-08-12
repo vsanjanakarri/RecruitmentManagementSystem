@@ -1,0 +1,19 @@
+.background_back{
+  background: url(../img/erp-v-accounting-software.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
+.sub_desc {
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    width: 45%;
+}
+
+.back_image {
+    position: relative;
+}
